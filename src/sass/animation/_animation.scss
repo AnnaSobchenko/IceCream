@@ -6,11 +6,11 @@
 .about-button,
 .footer-list li,
 .advantages-numbers {
-    &:hover,
-     :focus {
-        display: inline-block;
-        // margin: 0 0.5rem;
-        animation: swing;
-        animation-duration: 2s;
-    }
+  &:hover,
+  :focus {
+    display: inline-block;
+    // margin: 0 0.5rem;
+    animation: swing;
+    animation-duration: 2s;
+  }
 }

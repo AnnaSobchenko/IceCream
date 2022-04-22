@@ -13,14 +13,11 @@
 }
 
 img {
-  // width: 100%;
   border-radius: 10%;
 }
 .gallery {
   &__image {
     border-radius: 10%;
-
-    // scale: 1;
     border-radius: 20px;
     animation-name: scale;
     animation-duration: 3000ms;
@@ -49,7 +46,6 @@ img {
       width: 100%;
       padding-top: 50px;
       padding-bottom: 50px;
-      // height: 100%;
       background-image: linear-gradient(to bottom, #fff5f6 40%, #fff 40%);
     }
   }
